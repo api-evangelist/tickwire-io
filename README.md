@@ -64,5 +64,31 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Tickwire is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://tickwire.io
+Tickwire provides a hosted MetaTrader 4 and 5 API, offering real MT4/MT5 terminals per account with REST, WebSocket, and an MCP server for AI agents. It includes idempotent order handling, per‑account health checks, signed webhooks, and a free sandbox. Pricing starts at $12 per account per month with a 7‑day trial.
+
+**Areas:** Company · Finance · Trading · API · MetaTrader
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://tickwire.io)
+- [Documentation](https://tickwire.io/docs/)
+- [Getting started](https://tickwire.io/docs/quickstart/)
+- [API reference](https://tickwire.io/docs/reference/)
+- [Pricing](https://tickwire.io/pricing/)
+- [Sign up](https://app.tickwire.io/signup)
+- [Support](https://app.tickwire.io/login)
+- [Changelog](https://tickwire.io/changelog/)
+- [Blog](https://tickwire.io/blog/)
+- [Security](https://tickwire.io/security/)
+- [Compliance](https://tickwire.io/security/)
+- [Terms of service](https://tickwire.io/legal/terms/)
+- [Privacy policy](https://tickwire.io/legal/privacy/)
+- [Status](https://status.tickwire.io/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/tickwire-io/](https://apis.io/providers/tickwire-io/).
